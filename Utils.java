@@ -1,5 +1,3 @@
-package org.example;
-
 import java.time.Duration;
 import java.util.Base64;
 import java.nio.charset.StandardCharsets;
